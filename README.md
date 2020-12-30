@@ -1,3 +1,3 @@
-# zerobattery.github.io
+# Zerobattery.github.io
 Repo that contains Javascript based browser games
 Currently under development...
